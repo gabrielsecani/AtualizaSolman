@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name         Atualiza SOLMAN
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/gabrieltr/AtualizaSolman/
 // @version      0.1
 // @description  Atualizar dados do solman
 // @author       Gabriel Lucas de Toledo Ribeiro
 // @match        *solman.castgroup.com.br*/sap(*=)*
+// @homepageURL  https://github.com/gabrieltr/AtualizaSolman/Endless_Google
+// @supportURL   https://github.com/gabrieltr/AtualizaSolman/
+// @updateURL    https://openuserjs.org/meta/gabrielgabrieltr/Atualiza_SOLMAN.meta.js
 // @grant        none
 // ==/UserScript==
 
