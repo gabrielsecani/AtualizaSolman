@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Atualiza SOLMAN 0.1.2
+// @name         Atualiza SOLMAN 0.1.3
 // @namespace    https://github.com/gabrieltr/AtualizaSolman/
-// @version      0.1.2
+// @version      0.1.3
 // @description  Atualizar dados do solman
 // @author       Gabriel Lucas de Toledo Ribeiro
 // @match        *solman.castgroup.com.br*/sap(*=)*
