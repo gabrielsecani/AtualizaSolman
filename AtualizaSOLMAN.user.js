@@ -14,7 +14,6 @@
 // ==/UserScript==
 
 (function() {
-
     'use strict';
     //console.debug("Atualizando a cada 30 segundos...");
     var AtualizarContador=1;
@@ -22,15 +21,14 @@
     function atualiza(){
         try{
             btn = $('img[alt="Atualizar"]');
-            //console.debug("C27_W89_V90_V92_Refresh="+btn);
             if(btn !== null && btn.size()>=1){
-                btn.hide(250);
+                btn.hide();
                 btn.click();
                 var texto = "Atualizando: " + AtualizarContador++;
                 console.debug(Date.now() + texto);
                 var linka=btn.parent().find('b');
                 linka.html(texto);
-                btn.show(400);
+                btn.show();
             }else{
                 console.debug("botão atualizar nao encontrado neste frame..." + name);
             }
