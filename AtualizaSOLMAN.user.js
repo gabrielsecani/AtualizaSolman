@@ -5,9 +5,8 @@
 // @description  Atualizar dados do solman
 // @author       Gabriel Lucas de Toledo Ribeiro
 // @match        *solman.castgroup.com.br*/sap(*=)*
-// @homepageURL  https://openuserjs.org/scripts/gabrielgabrieltr/Atualiza_SOLMAN
-// @supportURL   https://openuserjs.org/scripts/gabrielgabrieltr/Atualiza_SOLMAN
-// @updateURL    https://openuserjs.org/install/gabrielgabrieltr/Atualiza_SOLMAN.user.js
+// @homepageURL  https://github.com/gabrieltr/AtualizaSolman/
+// @updateURL    https://github.com/gabrieltr/AtualizaSolman/raw/master/AtualizaSOLMAN.user.js
 // @icon         http://solman.castgroup.com.br:8000/sap/bc/bsp/sap/thtmlb_styles/sap_skins/nova/images/logo_sap.png
 // @grant        none
 // @require	    http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
